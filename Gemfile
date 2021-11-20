@@ -43,6 +43,7 @@ gem "bootsnap", ">= 1.4.4", require: false
 # gem "image_processing", "~> 1.2"
 
 gem "graphql"
+gem "graphql-batch"
 
 group :development, :test do
   # Start debugger with binding.b [https://github.com/ruby/debug]
